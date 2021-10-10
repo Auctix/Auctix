@@ -2,6 +2,8 @@
 Идея проекта!
 Проект заключается в организации многодневного аукциона. 
 <!--
+
+// Делаем проект
 **Auctix/Auctix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
